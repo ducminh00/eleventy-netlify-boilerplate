@@ -19,6 +19,6 @@ rất vui khi được gặp mọi người!
 
 thông tin thêm về mình tại đây: <!--StartFragment-->
 
-https://linktr.ee/duc.minh
+<https://linktr.ee/duc.minh>
 
 <!--EndFragment-->

@@ -7,8 +7,6 @@ eleventyNavigation:
   key: xin chào
   order: 0
 ---
-
-
 *hà nội, ngày 3 tháng 8 năm 2021*
 
 *Xin chào*\
@@ -20,3 +18,5 @@ mình sẽ kể những câu chuyện đằng sau mỗi bức ảnh mình chụp
 chúc cả nhà đọc vui.
 
 **Minh.**
+
+![](/static/img/img_0866-1-.jpg)

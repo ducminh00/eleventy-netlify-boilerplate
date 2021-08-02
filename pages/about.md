@@ -9,14 +9,16 @@ eleventyNavigation:
   key: Giới thiệu
   order: 1
 ---
-*hà nội, ngày 3 tháng 8 năm 2021*
+xin chào mọi người, 
 
-**Xin chào**\
-\
-đây là nhật ký chụp ảnh của mình,
+mình là *Minh*, 
 
-mình sẽ kể những câu chuyện đằng sau mỗi bức ảnh mình chụp,
+hiện đang sinh sống và làm việc tại *Hà Nội,* 
 
-chúc cả nhà đọc vui.
+rất vui khi được gặp mọi người! 
 
-**Minh.**
+thông tin thêm về mình tại đây: <!--StartFragment-->
+
+https://linktr.ee/duc.minh
+
+<!--EndFragment-->

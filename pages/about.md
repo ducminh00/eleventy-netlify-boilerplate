@@ -22,3 +22,5 @@ thông tin thêm về mình tại đây: <!--StartFragment-->
 <https://linktr.ee/duc.minh>
 
 <!--EndFragment-->
+
+![](/static/img/000041-1-.jpg)

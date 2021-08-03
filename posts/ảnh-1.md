@@ -1,10 +1,11 @@
 ---
-title: ảnh 1
+title: T và G
 date: 2021-08-03T17:47:48.860Z
 author: đức-minh
-summary: "ảnh 1 mình đã chụp như nào nhỉ? "
+summary: "tấm ảnh bạn đã xem được chụp như nào nhỉ? "
 tags:
   - post
+  - ngaycuoiocva
 ---
 Mình chụp ảnh này trong lần đang chuẩn bị chương trình Nhật ngữ cho trường. 
 

@@ -4,7 +4,7 @@ date: 2021-08-04T05:54:16.105Z
 author: đức-minh
 summary: rủ T ra ngoài chụp
 tags:
-  - post
+  - ngaycuoiocva
 ---
 Ảnh này mình kéo T ra ngoài sân trường chụp vì bạn mình mới có bộ tóc mới. 
 

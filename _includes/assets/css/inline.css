@@ -194,3 +194,5 @@ button {
 		font-size: 1.1rem;
 	}
 }
+body { justify-content: center; }
+header, main, footer { text-align: center; }

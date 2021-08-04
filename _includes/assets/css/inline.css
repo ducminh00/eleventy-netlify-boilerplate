@@ -62,9 +62,9 @@ main > article :first-child {
 }
 
 pre {
-	font-size: 14px;
+	font-size: 15px;
 	direction: ltr;
-	text-align: left;
+	text-align: justify;
 	white-space: pre;
 	word-spacing: normal;
 	word-break: normal;

@@ -64,7 +64,7 @@ main > article :first-child {
 pre {
 	font-size: 15px;
 	direction: ltr;
-	text-align: justify;
+	text-align: center;
 	white-space: pre;
 	word-spacing: normal;
 	word-break: normal;
